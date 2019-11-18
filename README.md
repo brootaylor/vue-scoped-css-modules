@@ -1,4 +1,4 @@
-# vue-scoped-css-modules
+# Vue Scoped CSS Modules
 
 ## Project setup
 ```
